@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OPNFC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="explanation">Place the tablet near to an NFC tag.</string>
+    <string name="NFCDissabled">This device does not have NFC enabled.  Plase enable in your settings menu.</string>
+	<string name="noNFC">This device does not support NFC.</string>
+</resources>
